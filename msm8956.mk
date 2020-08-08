@@ -318,8 +318,8 @@ PRODUCT_PACKAGES += \
     android.hardware.light@2.0-service.aw2013
 
 # Lineage hardware
-PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.msm8956
+#PRODUCT_PACKAGES += \
+#    vendor.lineage.touch@1.0-service.msm8956
 
 # Media
 PRODUCT_COPY_FILES += \
